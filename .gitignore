@@ -1,0 +1,14 @@
+src/Thumbs.db
+*.res
+Thumbs.db
+*.o
+*.cbp
+bin/Release/defng.defn
+Covir.depend
+bin/Release/defng.defn
+Covir.depend
+*.exe
+*.layout
+*.ico
+toolbar.bmp
+*.bmp
